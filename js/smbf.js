@@ -1,17 +1,20 @@
 $(document).ready(function() {
 
-//Graph API
+//Graph API this is VERY messy and needs cleaning up
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '449462748775879',
       xfbml      : true,
       version    : 'v2.8'
     });
-    function getEvents() {
-      FB.api('/920754984725976', function(response) {
+    FB.api(
+      '/920754984725976',
+      'GET',
+      {},
+      function(response) {
         console.log(response);
-      })
-    }
+      }
+    );
   };
 
   (function(d, s, id){
