@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"querySelectorAll\t(index-FINISHED.html)"
+			],
+			[
+				"class",
+				"classList\t(index-FINISHED.html)"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"navb",
+				"navbarAlt"
+			],
+			[
+				"navbar",
+				"navbarAlt\t(portfolio.css)"
+			],
+			[
+				"n",
+				"navbar\t(index.html)"
+			],
+			[
+				"portfolio",
+				"portfolioWrapper\t(index.html)"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"landi",
+				"landingContainer\t(index.html)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "makeco",
+		"selected_items":
+		[
+			[
+				"makeco",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"mc",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"artisan",
+				"Laravel Artisan 5: Help"
+			],
+			[
+				"artisanup",
+				"Laravel Artisan 5: Up"
+			],
+			[
+				"artisan down",
+				"Laravel Artisan 5: Down"
+			],
+			[
+				"artisan serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"phpunit",
+				"PHPUnit: Run with custom args"
+			],
+			[
+				"php",
+				"PHPUnit: Run"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/jstuts/JavaScript30-master/21 - Geolocation/index-FINISHED.html",
+		"/E/jstuts/JavaScript30-master/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/E/jstuts/JavaScript30-master/01 - JavaScript Drum Kit/index-START.html",
+		"/C/Users/PC/Desktop/app.css",
+		"/C/Users/PC/Desktop/bla.php",
+		"/E/Web/portfolio/js/portfolio.js",
+		"/E/Web/portfolio/css/portfolio.css",
+		"/E/Web/portfolio/index.html",
+		"/C/Users/PC/AppData/Local/Temp/Rar$EXa0.413/OFFLINE/full_night.html",
+		"/E/Web/portfolio/css/skeleton.css",
+		"/E/art/New folder/New folder (3)/封呪姫_v122a/ブラウザ起動.html",
+		"/E/Web/shadowchasers/shadowchasers.html",
+		"/E/Web/font-awesome-4.7.0/css/font-awesome.css",
+		"/E/Web/Skeleton-2.0.4/index.html",
+		"/E/Web/font-awesome-4.7.0/css/font-awesome.min.css",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/public/js/app.js",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/public/css/app.css",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/include/nav.blade.php",
+		"/E/Web/portfolio/index",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/gallery.blade.php",
+		"/E/Web/shadowchasers/js/shadowchasers.js",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/welcome.blade.php",
+		"/E/Web/portfolio/portfolio.html",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/layout.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/include/footer.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/team.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/contact.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/app/Http/Controllers/PagesController.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/routes/web.php",
+		"/E/Web/login/css/login.css",
+		"/E/Web/login/login.html",
+		"/E/Web/shadowchasers/css/shadowchasers.css",
+		"/C/Users/PC/Desktop/login.html",
+		"/C/Users/PC/Desktop/full.html",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/nav.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/footer.blade.php",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/resources/views/header.blade.php",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/Laravel 5 Artisan.sublime-commands",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Vagrant/Laravel/Projects/shadowchasers/public/index.php",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/builds/PSR-2.sublime-build",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/PHP Method.sublime-snippet",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/E/Web Development/portfoliosite/index.html",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/PC/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/E/Web Development/portfoliosite/css/portfolio.css",
+		"/E/Web/portfolio.html",
+		"/E/Web/css/portfolio.css",
+		"/E/Web/js/portfolio.js",
+		"/E/Web/Portfolio.html",
+		"/E/Web/shadowchasers.html",
+		"/E/Desktop backup/goodbye/WEB/Projects/thewizzardtower/home.html",
+		"/E/Web/shadowchasers",
+		"/E/Desktop backup/goodbye/WEB/Projects/thewizzardtower/html/computing.html",
+		"/E/Desktop backup/goodbye/WEB/Projects/SFV/sfvProject.html",
+		"/E/Desktop backup/goodbye/WEB/Projects/SFV/sfvProject.css",
+		"/C/Users/PC/Desktop/Python/Bot/!# [insertgame] Bot.py",
+		"/E/Python/Tests.sikuli/Tests.html",
+		"/C/Users/PC/AppData/Local/Temp/tmpky1vu8.html",
+		"/C/Users/PC/AppData/Local/Temp/tmpzuusrf.html",
+		"/C/Users/PC/AppData/Local/Temp/tmpwieceu.html",
+		"/E/Art/TOP/GAME/New folder (8)/魔立ろりさきゅばす妖魔園/せつめいしょ.html",
+		"/C/Users/PC/Desktop/FYP final/bib/IEEE Xplore Full-Text PDF_.html",
+		"/C/Users/PC/AppData/Local/Temp/tmphu4caq.html",
+		"/C/Users/PC/AppData/Local/Temp/tmpwlmq8i.html",
+		"/C/Users/PC/AppData/Local/Temp/tmpogoxgp.html",
+		"/C/Users/PC/Desktop/WEB/Projects/Shadow Chasers/index.html",
+		"/C/Users/PC/Desktop/WEB/Projects/Shadow Chasers/index.css",
+		"/C/Users/PC/Desktop/WEB/Projects/Shadow Chasers2/index.html",
+		"/C/Users/PC/Desktop/WEB/Projects/thewizzardtower/home.css",
+		"/C/Users/PC/Desktop/WEB/Projects/thewizzardtower/home.html",
+		"/C/Users/PC/Desktop/WEB/Projects/thewizzardtower/html/japanese.html",
+		"/C/Users/PC/Desktop/WEB/Projects/thewizzardtower/html/gaming.html",
+		"/C/Users/PC/Desktop/WEB/Projects/thewizzardtower/html/computing.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"button",
+			"},\n",
+			"keys",
+			"ctrl",
+			"},\n",
+			"tab",
+			"38, 50, 56",
+			"body",
+			">",
+			"bod"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/builds/PSR-2.sublime-build",
+	"project": "SMBF.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

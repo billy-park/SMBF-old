@@ -1,0 +1,126 @@
+body{
+  background-image: url("../images/fangBG.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+
+#pageContent{
+
+}
+
+/* Sections */
+#home{
+  background-color: darkgray;
+  height: 100%;
+}
+
+#eventsContainer{
+  background-color: darkgray;
+  height: 100%;
+}
+
+#contact{
+  margin-bottom: 2.5%;
+}
+
+#contactInfo{
+  background-color: rgba(100,100,100,0.7);
+  height: 100%;
+  padding: 10px;
+}
+
+#map{
+  height: 100%;
+  width: 100%;
+}
+
+#mapholder{
+  height: 100%;
+  width: 100%;
+}
+
+#events{
+ padding: 10px;
+}
+
+#eventsList{
+  background-color: rgba(100,100,100,0.7);
+  height: 100%;
+  padding: 10px 10px 0px 10px;
+}
+
+#eventListDesc{
+  background-color: rgba(100,100,100,0.7);
+  height: 100%;
+  padding: 10px;
+}
+
+.navbar{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(100,100,100,0.7);
+}
+
+.navbar-item{
+  display: block;
+  float: left;
+}
+
+#nextevent{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(100,100,100,0.7);
+  padding: 10px;
+}
+
+#nexteventimg{
+  height: 90%;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainEvent{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.eventBanner{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 95%;
+  margin-bottom:10px;
+}
+
+.activeBanner{
+  box-shadow: 0px 0px 0px 3px orange;
+}
+
+#titleDiv{
+  padding: 10px;
+}
+
+.pageTitle{
+  text-align: center;
+  margin: 0px;
+}
+
+.navbar-title{
+  padding: 5px;
+  display: block;
+  float: right;
+}
+
+ul > li > .button{
+  border: 0px;
+}
+
+ul > li > .button:hover{
+  color: orange;
+}

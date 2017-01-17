@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Super Miner Battle Farm</title>
+  <meta name="description" content="Southwest of England FGC">
+  <meta name="author" content="Billy Park">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/smbf.css">
+  <link rel="icon" type="image/png" href="images/favicon.png">
+</head>
+<body>
+  <!-- Navbar -->
+  <div id="pageContent" class="container">
+    <nav class="navbar">
+      <div class="container">
+        <ul class="navbar-list">
+          <li class="navbar-item">
+            <a class="button navbar-link">Home</a>
+          </li>
+          <li class="navbar-item">
+            <a class="button navbar-link">Events</a>
+          </li>
+          <li class="navbar-item">
+            <a class="button navbar-link">Find Us</a>
+          </li>
+          <li class="navbar-title">
+            <a class="navbar-link">Super Miner Battle Farm</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Home -->
+    <section id="home">
+      <div id="titleDiv">
+        <h3 class="pageTitle">Super Miner Battle Farm</h3>
+      </div>
+    </section>
+      <!-- Upcoming Event -->
+    <div id="nextevent" class="container">
+      <p id="mainEvent"></p>
+      <img id="nexteventimg" src="images/ss.jpg" draggable="false" >
+    </div>
+    <!-- Events, including future events -->
+    <section id="eventsContainer">
+      <div id="container">
+        <h4>Events</h4>
+        <div id="events" class="row">
+          <div id="eventsList" class="five columns">
+            <div>
+              <ul class="navbar-list">
+                <li class="navbar-item">
+                  <a class="button">weekly/big event filtering</a>
+                </li>
+              </ul>
+            </div>
+            <img id="event0" class="eventBanner" src="images/ss.jpg" draggable="false" data-eventtitle="Sodium Showdown XVII", data-eventdesc="19th Febuary 2017 - The Lanes, Bristol">
+            <img id="event1" class="eventBanner" src="images/wwFang.jpg" draggable="false" data-eventtitle="Waistman Weeklies #2", data-eventdesc="Second ww">
+            <img id="event2" class="eventBanner" src="images/hs6.jpg" draggable="false" data-eventtitle="HypeSpotting 6", data-eventdesc="Hypespotting 6!!">
+            <img id="event3" class="eventBanner" src="images/tt.jpg" draggable="false" data-eventtitle="Triple Threat XV", data-eventdesc="So... After a year off, Triple Threat is back!
+
+            Set to remain at Southampton's home of fighting games, The Orange Rooms, we will see Super Smash Bros 4 on the Wii U return to the roster and new to the series, we will be introducing Street Fighter V on Playstation 4 with not only a singles tournament, but also a 3v3 team tournament!">
+          </div>
+          <div id="eventListDesc" class="seven columns">
+            <h5 id="eventDescTitle"></h5>
+            <p id="currentEventDesc"></p>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
+    <!-- Contact/Find Us Section -->
+    <section id="contact">
+      <div class="container">
+        <div id="contactInfo" class="row">
+          <div id="mapDiv" class="five columns">
+            <p>contact/find us</p>
+            <div id="mapHolder">
+              <iframe id="map" width="600" height="450" frameborder="0" style="border:0"
+                src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJsRkJCneOcUgRf2J9X_PnfrQ&key=AIzaSyB-OCboWZbr6xQeFxfsAx2-R5RFtrnAAOU">
+              </iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous"></script>
+  <!-- Javascript -->
+  <script type="text/javascript" src ="js/smbf.js"></script>
+</body>
+</html>
