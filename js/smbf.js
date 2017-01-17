@@ -7,7 +7,6 @@ $(document).ready(function() {
       xfbml      : true,
       version    : 'v2.8'
     });
-    FB.AppEvents.logPageView();
     FB.api(
     "/920754984725976",
     function(response) {
