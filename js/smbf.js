@@ -7,13 +7,11 @@ $(document).ready(function() {
       xfbml      : true,
       version    : 'v2.8'
     });
-    FB.api(
-    "/920754984725976",
-    function(response) {
-      if (response && !response.error) {
-        console.log(response)
-      }
-    })
+    function getEvents() {
+      FB.api('/920754984725976', function(response) {
+        console.log(response);
+      })
+    }
   };
 
   (function(d, s, id){
