@@ -16,7 +16,8 @@ $(document).ready(function() {
         console.log(response);
         var event = response;
         console.log(event);
-        console.log(event[0].id);
+        //master
+        console.log(event.data[0].id);
       }
     );
   };
