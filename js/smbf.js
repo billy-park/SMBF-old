@@ -15,6 +15,8 @@ $(document).ready(function() {
       function(response) {
         console.log(response);
         var event = response;
+        console.log(event);
+        console.log(event[0].id);
       }
     );
   };
